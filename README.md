@@ -41,6 +41,7 @@
   </tr>
 </tbody>
 </table>
+
 # 评估指标(Evaluation Metric)
 ## 通用评估指标(General evaluation metric)
-通用评估指标位于：https://github.com/Linfeng-Tang/Image-Fusion/tree/main/General%20Evaluation%20Metric or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
+https://github.com/Linfeng-Tang/Image-Fusion/tree/main/General%20Evaluation%20Metric or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
