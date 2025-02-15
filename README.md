@@ -48,8 +48,8 @@
     <tr>
       <th>方法</th>
       <th>标题</th>
-      <th>paper</th>
-      <th>code</th>
+      <th>论文</th>
+      <th>代码</th>
       <th>期刊或会议</th>
       <th>年份</th>
     </tr>
