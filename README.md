@@ -59,11 +59,6 @@
     <td>M3FD</td>
     <td><a href="https://github.com/JinyuanLiu-CV/TarDAL">https://github.com/JinyuanLiu-CV/TarDAL</a></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </tbody>
 </table>
 
