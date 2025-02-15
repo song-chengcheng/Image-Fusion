@@ -1,4 +1,18 @@
 # 图像融合（Image-Fusion）
+## 红外和可见光图像融合(Infrared and visible image fusion)
+<table>
+  <thead>
+    <tr>
+      <th>方法</th>
+      <th>标题</th>
+      <th>论文</th>
+      <th>代码</th>
+      <th>期刊或会议</th>
+      <th>年份</th>
+    </tr>
+  </thead>
+</table>
+
 ## 数据集(Dataset)
 <table>
   <thead>
@@ -40,20 +54,6 @@
     <td></td>
   </tr>
 </tbody>
-</table>
-
-# 红外和可见光图像融合(Infrared and visible image fusion)
-<table>
-  <thead>
-    <tr>
-      <th>方法</th>
-      <th>标题</th>
-      <th>论文</th>
-      <th>代码</th>
-      <th>期刊或会议</th>
-      <th>年份</th>
-    </tr>
-  </thead>
 </table>
 
 # 评估指标(Evaluation Metric)
