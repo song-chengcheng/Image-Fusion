@@ -1,5 +1,6 @@
 # 图像融合（Image-Fusion）
 ## 红外和可见光图像融合(Infrared and visible image fusion)
+### 论文
 <table>
   <thead>
     <tr>
@@ -13,7 +14,7 @@
   </thead>
 </table>
 
-## 数据集(Dataset)
+### 数据集(Dataset)
 <table>
   <thead>
     <tr>
@@ -56,6 +57,6 @@
 </tbody>
 </table>
 
-# 评估指标(Evaluation Metric)
-## 通用评估指标(General evaluation metric)
+### 评估指标(Evaluation Metric)
+#### 通用评估指标(General evaluation metric)
 https://github.com/Linfeng-Tang/Image-Fusion/tree/main/General%20Evaluation%20Metric or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
