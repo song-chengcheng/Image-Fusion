@@ -16,8 +16,8 @@
     <tr>
       <td>DenseFuse</td>
       <td>DenseFuse: A Fusion Approach to Infrared and Visible Images</td>
-      <td>[IEEEXplore](https://ieeexplore.ieee.org/document/8580578) or [arXiv](https://arxiv.org/abs/1804.08361)</td>
-      <td><a href="https://github.com/hli1221/densefuse-pytorch">https://github.com/hli1221/densefuse-pytorch</a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/8580578">IEEEXplore</a> or <a href="https://arxiv.org/abs/1804.08361">arXiv</a></td>
+      <td><a href="https://github.com/hli1221/densefuse-pytorch">code</a></td>
       <td>TIP</td>
       <td>2019</td>
     </tr>
